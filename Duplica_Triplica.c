@@ -1,7 +1,7 @@
 #include <stdio.h>
   
 int main(void) {
-  int i,vet[30], impar[30], dupli[30];
+  int i,vet[30];
   srand(time(NULL));
   
   printf("Vetor ");
